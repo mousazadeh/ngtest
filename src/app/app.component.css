@@ -5,3 +5,7 @@
   display: block;
   box-shadow: 0 0 5px 0;
 }
+
+.pagination-holder {
+  text-align: center;
+}
